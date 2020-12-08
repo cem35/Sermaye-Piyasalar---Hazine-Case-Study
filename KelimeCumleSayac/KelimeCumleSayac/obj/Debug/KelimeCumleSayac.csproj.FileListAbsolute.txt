@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\KelimeCumleSayac\KelimeCumleSayac\bin\Debug\KelimeCumleSayac.exe.config
+C:\Users\ASUS\source\repos\KelimeCumleSayac\KelimeCumleSayac\bin\Debug\KelimeCumleSayac.exe
+C:\Users\ASUS\source\repos\KelimeCumleSayac\KelimeCumleSayac\bin\Debug\KelimeCumleSayac.pdb
+C:\Users\ASUS\source\repos\KelimeCumleSayac\KelimeCumleSayac\obj\Debug\KelimeCumleSayac.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KelimeCumleSayac\KelimeCumleSayac\obj\Debug\KelimeCumleSayac.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KelimeCumleSayac\KelimeCumleSayac\obj\Debug\KelimeCumleSayac.exe
+C:\Users\ASUS\source\repos\KelimeCumleSayac\KelimeCumleSayac\obj\Debug\KelimeCumleSayac.pdb
